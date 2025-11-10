@@ -1,10 +1,10 @@
 # ns-3-simple-multicast-flooding
 
-File modifications:
+File modifications made:
 
-Add default TTL parameter. Modify to set TTL value.
+Added default TTL parameter. Modify to set TTL value.
 
-Change EnableDuplicatePacketDetection to false.
+Changed EnableDuplicatePacketDetection to false.
 
 To run the code in ns-3: 
 
